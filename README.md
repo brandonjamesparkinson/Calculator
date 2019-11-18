@@ -1,4 +1,5 @@
 # Calculator
-Simple Java Calculator
+Simple Calculator built using Java. 
 
-Simple java calclator with buttons 0-9, with '+', '-', '/', '*' and '.' as well as '='.
+Includes the buttons; 0-9
+And functionality for '+', '-', '/', '*' ,'.' , '='
